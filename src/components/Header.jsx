@@ -1,4 +1,3 @@
-// import "../assets/Header.css";
 import logo from "../assets/main_logo.png";
 import { Image, Navbar, Nav } from "react-bootstrap";
 

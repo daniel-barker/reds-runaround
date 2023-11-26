@@ -1,12 +1,12 @@
 import home from "../assets/home.png";
 import { Image, Container } from "react-bootstrap";
 import "./styles/HomeScreen.css";
-import HeaderNoLogo from "../components/HeaderNoLogo";
+import Header from "../components/HeaderNoLogo";
 
 const HomeScreen = () => {
   return (
     <>
-      <HeaderNoLogo />
+      <Header />
       <Image src={home} fluid />
       <Container>
         <h1 className="title-heading">-Welcome to Red's Runaround-</h1>
