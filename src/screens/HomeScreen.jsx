@@ -1,6 +1,6 @@
 import home from "../assets/home.png";
 import { Image, Container } from "react-bootstrap";
-import "./styles/HomeScreen.css";
+
 import Header from "../components/HeaderNoLogo";
 
 const HomeScreen = () => {
