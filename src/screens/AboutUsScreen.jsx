@@ -8,8 +8,11 @@ const AboutUsScreen = () => {
   return (
     <>
       <Header />
-      <p className="subtitle-heading">About Us</p>
-      <h1 className="title-heading">Our Journey to Joyful Tales</h1>
+      <br />
+      <br />
+      <Row className="text-center align-items-center">
+        <h1 className="title-heading">About Us</h1>
+      </Row>
       <Row className="text-center align-items-center">
         <Col sm={6}>
           <Image
@@ -78,6 +81,7 @@ const AboutUsScreen = () => {
           />
         </Col>
       </Row>
+      <br />
       <Row className="align-items-center">
         <Col xs={2}></Col>
         <Col xs={8}>
@@ -105,6 +109,7 @@ const AboutUsScreen = () => {
           </ul>
         </Col>
       </Row>
+      <br />
       <Row>
         <Col className="text-center">
           <p className="subtitle-heading">
