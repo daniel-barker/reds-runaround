@@ -22,6 +22,7 @@ const AboutUsScreen = () => {
           />
         </Col>
         <Col sm={6}>
+          <br />
           <h1>Our Story</h1>
           <p>
             Red's Runaround began not just as a business, but as a personal

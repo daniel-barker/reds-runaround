@@ -9,7 +9,7 @@ const HomeScreen = () => {
       <Header />
       <Image src={home} fluid />
       <Container>
-        <h1 className="title-heading">-Welcome to Red's Runaround-</h1>
+        <h1 className="title-heading">Welcome to Red's Runaround</h1>
         <p className="subtitle-heading">The Ultimate Playdate for Pups!</p>
         <p className="body-text px-5">
           Embark on a journey of tail-wagging fun with Red's Runaround, a unique
