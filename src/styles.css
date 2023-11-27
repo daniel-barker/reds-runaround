@@ -20,6 +20,13 @@
   color: #000;
 }
 
+.smaller-subtitle-heading {
+  font-size: 1.7rem;
+  font-weight: 300;
+  text-align: center;
+  color: #000;
+}
+
 .body-text {
   font-size: 1.5rem;
   font-weight: 300;

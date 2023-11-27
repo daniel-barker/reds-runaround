@@ -19,6 +19,7 @@ const AboutUsScreen = () => {
             src={image1}
             alt="Red surrounded by friends at the park"
             fluid
+            rounded
           />
         </Col>
         <Col sm={6}>
@@ -66,7 +67,7 @@ const AboutUsScreen = () => {
           </p>
         </Col>
         <Col sm={6}>
-          <Image src={image2} alt="Red at the park" fluid />
+          <Image src={image2} alt="Red at the park" fluid rounded />
         </Col>
       </Row>
       <br />
@@ -79,6 +80,7 @@ const AboutUsScreen = () => {
             src={image3}
             alt="Red and Gradle sitting like the best dogs in the world"
             fluid
+            rounded
           />
         </Col>
       </Row>
