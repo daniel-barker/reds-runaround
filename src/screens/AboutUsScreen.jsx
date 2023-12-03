@@ -3,6 +3,7 @@ import { Row, Col, Image, Stack } from "react-bootstrap";
 import image1 from "../assets/image1.jpg";
 import image2 from "../assets/image2.jpg";
 import image3 from "../assets/image3.jpg";
+import Footer from "../components/Footer";
 
 const AboutUsScreen = () => {
   return (

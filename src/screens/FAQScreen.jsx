@@ -235,6 +235,13 @@ const FAQScreen = () => {
               events.
             </div>
             <br />
+            <h3>What areas do you service?</h3>
+            <div className="text-center">
+              We serve all of Arlington and parts of Alexandria. If you are
+              outside of our service area, please contact us to discuss
+              availability!
+            </div>
+            <br />
             <br />
             <br />
           </div>
